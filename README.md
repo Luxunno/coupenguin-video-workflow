@@ -106,7 +106,7 @@ GMod 拍摄需要 Steam、Garry's Mod，以及 Agent 对本地文件和制作工
 仓库随附 **高松灯爱音语音包**，包含咕咕嘎嘎等常用语音，位置为：
 
 ```text
-penguin-video-workflow/assets/voice-packs/高松灯爱音语音包/
+coupenguin-video-workflow/assets/voice-packs/高松灯爱音语音包/
 ```
 
 Agent 根据脚本搜索实际文件、试听候选并完成裁切、停顿、音量和入点调整。已符合目标声线的片段可以直接使用；需要改变音色时再使用 RVC。
