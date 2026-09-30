@@ -102,7 +102,7 @@ Dialogue-heavy projects can start with audio. Visual-first projects can be voice
 The local **高松灯爱音语音包** is available to the workflow, including common “咕咕嘎嘎” clips:
 
 ```text
-penguin-video-workflow/assets/voice-packs/高松灯爱音语音包/
+coupenguin-video-workflow/assets/voice-packs/高松灯爱音语音包/
 ```
 
 The agent checks the files actually present, previews suitable clips, and adjusts cuts, pauses, volume, and placement. Clips that already have the desired voice can be used directly. **RVC is optional.**
